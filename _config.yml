@@ -1,0 +1,23 @@
+name: concutio
+favicon: null
+layout_spectrum: 0.7587057990022004
+typography_spectrum: 0.9504545754753053
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.0052565394435077906
+  lightness: 0.9954363740980625
+  saturation: 0.1860766946338117
+  rhythmicContrast: 0.8374091822188348
+purpose: []
